@@ -1,0 +1,8 @@
+[project]
+name = "cosette"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9.18"
+dependencies = [
+    "ruff>=0.8.4",
+]
